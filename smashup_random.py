@@ -3,6 +3,7 @@
 from random import randint
 
 all_decks = ["steampunk", "bären", "zombies", "godzilla", "piraten", "geister", "magier", "ninjas", "dinos", "gnome", "pokemon", "powerranger", "pflanzen", "sailormoon", "aliens", "roboter"]
+all_decks = ["haie", "drachen", "zombies", "wirbelstürme", "piraten", "superhelden", "magier", "ninjas", "dinos", "kobolde", "altgriechen", "aliens", "roboter"]
 
 playernum = int(input("How many players? "))
 
